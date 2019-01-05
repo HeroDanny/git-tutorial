@@ -1,4 +1,4 @@
-author: herodanny
-email: herodanny@qq.com
+author: herodanny  
+email: herodanny@qq.com  
 
 # Hello Git
